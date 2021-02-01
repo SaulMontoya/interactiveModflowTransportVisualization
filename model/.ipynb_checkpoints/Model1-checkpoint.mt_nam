@@ -1,0 +1,11 @@
+# Name File for MT3DMS created on 29/01/2021 by ModelMuse
+LIST 16 Model1.mls
+FTL 10 Model1.ftl
+DATA 17 Model1.cnf
+BTN 1 Model1.btn
+DATA(BINARY) 201 Model1_X.ucn
+DATA 601 Model1_X._mas
+ADV 2 Model1.adv
+DSP 3 Model1.dsp
+SSM 4 Model1.ssm
+GCG 9 Model1.gcg

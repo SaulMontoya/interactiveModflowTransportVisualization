@@ -1,0 +1,16 @@
+# Name File for MODFLOW created on 29/01/2021 by ModelMuse Version 4.3.0.0
+LIST             11 Model1.lst REPLACE
+DATA(BINARY)      9 Model1.cbc REPLACE
+DIS              12 Model1.dis OLD
+BAS6             13 Model1.bas OLD
+OC               39 Model1.oc OLD
+DATA(BINARY)     37 Model1.bhd REPLACE
+DATA             38 Model1.fdn REPLACE
+NWT             133 Model1.nwt OLD
+UPW             134 Model1.upw OLD
+LMT6            135 Model1.lmt OLD
+GHB              19 Model1.ghb OLD
+RIV              21 Model1.riv OLD
+RCH              24 Model1.rch OLD
+HOB              41 Model1.ob_hob OLD
+DATA             42 Model1.hob_out REPLACE
